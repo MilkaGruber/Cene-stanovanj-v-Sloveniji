@@ -15,4 +15,5 @@ Cilj je ugotoviti:
 - kje v Sloveniji (v kateri regiji) je stanovanj največ in kje najmanj?
 - v kateri regiji/kraju so stanovanja najdražja
 - povprečna velikost in starost stanovanj 
-- kakšna je povezava med ceno in starostjo stanovanja
+- kakšna je povezava med ceno, starostjo  ter velikostjo stanovanja
+- Ali nekatere ključne lastnosti (iz opisa, npr. parkirna garaža, pogled, bazen,... itd.) povišajo ceno stanovanja
