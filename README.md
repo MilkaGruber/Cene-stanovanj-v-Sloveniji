@@ -17,3 +17,4 @@ Cilj je ugotoviti:
 - povprečna velikost in starost stanovanj 
 - kakšna je povezava med ceno, starostjo  ter velikostjo stanovanja
 - Ali nekatere ključne lastnosti (iz opisa, npr. parkirna garaža, pogled, bazen,... itd.) povišajo ceno stanovanja
+- Ali se dražja stanovanja prodajajo dlje časa?
