@@ -3,13 +3,13 @@ Projektna naloga pri predmetu Programiranje 1
 
 Analizirala bom vsa stanovanja v Sloveniji, ki se trenutno prodajajo na spletni strani www.nepremicnine.net/.
 
-Za vsako stanovanje bom zajela naslednje podatke:
+Za vsako statistično regijo bom zajela naslednje podatke o stanovanjih, ki se trenutno prodajajo:
 - lokacija 
-- cena
+- št. sob
+- nadstropje
 - leto izgradnje
 - velikost 
-- št. sob
-- opis
+- cena
 
 Cilj je ugotoviti:
 - kje v Sloveniji (v kateri regiji) je stanovanj največ in kje najmanj?
